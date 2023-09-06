@@ -1,4 +1,4 @@
-## Hi there 👋,  I'm Dominik  and I'm junior front-end developer
+## Hi there 👋,  I'm Dominik  and I am aspiring data scientist
 ##  I love programming and sport
 
 
